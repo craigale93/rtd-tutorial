@@ -12,10 +12,10 @@ Contents
 
 .. toctree::
    additional-functionalities
-add-metadata-to-storage-positions
-add-parents-and-children-to-experimental-steps
-admin-documentation-before19-06-4
-admin-documentation
+   add-metadata-to-storage-positions
+   add-parents-and-children-to-experimental-steps
+   admin-documentation-before19-06-4
+   admin-documentation
 admin-documentation-openbis-v19-06-4-2
 admin-documentation-openbis-v19-06-4
 admin-documentation-prior-to-20-10-3
