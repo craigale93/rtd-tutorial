@@ -12,7 +12,7 @@ Contents
 
 .. toctree::
    additional-functionalities
-add-metadata-to-storage-positions
+   add-metadata-to-storage-positions
 add-parents-and-children-to-experimental-steps
 admin-documentation-before19-06-4
 admin-documentation
